@@ -3,8 +3,8 @@
 ### Contact
 
 Mail: [mail@etherlab.io](mailto:mail@etherlab.io)  
-Twitter: [etherlab](https://twitter.com/etherlab)  
-Telegram channel: [etherlab](https://t.me/etherlab)
+Twitter: [etherlabio](https://twitter.com/etherlabio)  
+Telegram channel: [etherlabio](https://t.me/etherlabio)
 
 ### Legal
 [Impressum / Imprint](https://etherlab.io/impressum.html)
