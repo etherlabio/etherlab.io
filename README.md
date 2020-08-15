@@ -7,4 +7,4 @@ Twitter: [etherlab](https://twitter.com/etherlab)
 Telegram channel: [etherlab](https://t.me/etherlab)
 
 ### Legal
-[Impressum / Imprint](https://etherlab.at/impressum.html)
+[Impressum / Imprint](https://etherlab.io/impressum.html)
